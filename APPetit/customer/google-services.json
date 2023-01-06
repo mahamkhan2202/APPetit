@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839178922018",
+    "firebase_url": "https://mahamfoodiapp-default-rtdb.firebaseio.com",
+    "project_id": "mahamfoodiapp",
+    "storage_bucket": "mahamfoodiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839178922018:android:d2d1670193833c687fc27b",
+        "android_client_info": {
+          "package_name": "com.example.maham.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839178922018-po7b5kkblpmbjnj86toh0rcqtm056qi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maham.customer",
+            "certificate_hash": "cf207efdec80354cb38b634cbaa26e699d9d4041"
+          }
+        },
+        {
+          "client_id": "839178922018-apggupkouk452d7035i01gfln2ehpquu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjsjkLK1WkuYRe32wG30VBsnJyjem_9G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839178922018-apggupkouk452d7035i01gfln2ehpquu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
